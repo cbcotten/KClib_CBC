@@ -1,0 +1,47 @@
+[33mcommit 1b4a486995d375f929ee7a4be2243edc40369e5c[m
+Author: Chip Cotten <cbcotten@users.noreply.github.com>
+Date:   Thu Mar 15 18:01:52 2018 -0700
+
+    Created a separate repo for My Kicad Library
+
+[33mcommit dd3414a2067e35be3dc4dd9b6e04ce20d7199204[m
+Author: Chip Cotten <cbcotten@users.noreply.github.com>
+Date:   Fri Jul 7 07:50:41 2017 -0700
+
+    Revision 2
+
+[33mcommit 6b2ec88757397a05d8ce68457da83b6ee8f3238c[m
+Author: Chip Cotten <cbcotten@users.noreply.github.com>
+Date:   Thu Jun 29 19:20:58 2017 -0700
+
+    GTC_SYSTEM_01 draft version
+
+[33mcommit cf4a1686dfa0533714ab61c4b32c785d8787b799[m
+Author: Chip Cotten <cbcotten@users.noreply.github.com>
+Date:   Thu Jun 29 10:23:06 2017 -0700
+
+    GTC_03_HTR revision 0
+
+[33mcommit 01dffc8f7b050c62fa907bfdcde19075dacfcf02[m
+Author: Chip Cotten <cbcotten@users.noreply.github.com>
+Date:   Wed Jun 28 10:12:58 2017 -0700
+
+    Libraries, Footprints, and Project files for GTC
+
+[33mcommit df024ff2a2d08b15277f4582ed3e006cdea63522[m
+Author: Chip Cotten <cbcotten@users.noreply.github.com>
+Date:   Tue Apr 11 12:16:01 2017 -0700
+
+    freetronics library and CBC_Arduino library
+
+[33mcommit 5bd3a6928ed605b94f6f533dbecef02878847111[m
+Author: Chip Cotten <cbcotten@users.noreply.github.com>
+Date:   Fri Mar 24 14:41:26 2017 -0700
+
+    Heater breakout board project
+
+[33mcommit 1e4132b082840074361d93fee88ab53caeea2f9e[m
+Author: Chip Cotten <cbcotten@users.noreply.github.com>
+Date:   Wed Feb 15 08:37:37 2017 -0700
+
+    Initial commit

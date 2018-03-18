@@ -90,6 +90,11 @@ D Generic Header, 2.54mm Pitch, 1x06
 K header
 $ENDCMP
 #
+$CMP Pin_Header_Straight_2.54mm_1x12
+D Generic Header, 2.54mm pitch, 1x12
+K header
+$ENDCMP
+#
 $CMP RTA_GATEWAY_PORT_0
 D RTA GATEWAY PORT 0 CONNECTOR
 $ENDCMP
